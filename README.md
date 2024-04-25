@@ -1,2 +1,2 @@
-# mymdl-static-website
-model data - static website
+# mydemo
+demo data for testing
